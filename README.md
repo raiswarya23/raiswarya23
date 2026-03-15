@@ -1,4 +1,19 @@
-## Hi there 👋
+hey there! AISWARYA here 👋
+I am an engineering student ,
+currently on the journey of learning and exploring my future path in tech.
+I am a biginner in html,css,js and java.
+I'am currently working on frontend development skills,and web projects.
+Reach me via: rnairaiswarya23@gmail.com
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **raiswarya23/raiswarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
